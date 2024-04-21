@@ -1,4 +1,4 @@
-# Farmer_Tycoon
+# Farmer Tycoon
 Seedling Success: Harvesting Precision with Crop Seed Calculator
 Crop Seed Calculator is an intuitive tool designed to streamline agricultural planning by providing accurate estimations for seeding requirements. With its user-friendly interface, farmers can effortlessly input land area and seed density to obtain essential data for planting operations. The software leverages image processing techniques to analyze uploaded field images, enabling users to visualize their land and make informed decisions. By seamlessly integrating OpenCV for image analysis and Tkinter for the graphical user interface, Crop Seed Calculator offers a comprehensive solution for modern farming needs. Whether planning for large-scale commercial crops or small-scale personal gardens, this software empowers farmers with the knowledge they need to optimize seed usage, maximize yields, and cultivate sustainable agricultural practices.
 
